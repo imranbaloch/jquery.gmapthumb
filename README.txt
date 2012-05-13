@@ -1,0 +1,1 @@
+A jQuery Plugin for Google Map Thumb(Magnifier)
